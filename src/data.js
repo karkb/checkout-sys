@@ -17,14 +17,14 @@ const offers = [
                 productID: 'classic',
                 rules:[
                     {
-                        quantityForEach:3,
+                        quantityForEach:2,
                     },
                 ],
                 benefits:[
                     {
                         freeProduct:{
                             productID: 'classic',
-                            quantity: -1,
+                            quantity: +1,
                         },
                     },
                 ],
@@ -89,14 +89,14 @@ const offers = [
                 productID: 'classic',
                 rules:[
                     {
-                        quantityForEach:5,
+                        quantityForEach:4,
                     },
                 ],
                 benefits:[
                     {
                         freeProduct:{
                             productID: 'classic',
-                            quantity: -1,
+                            quantity: +1,
                         },
                     },
                 ],
